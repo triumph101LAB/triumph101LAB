@@ -1,13 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm odili triumph</h1>
-<h3 align="center">Venturing into Backend Development</h3>
+<h3 align="center"> Backend Development</h3>
 
-- 🔭 I’m currently working on **Full stack Web Applications**
+- 🔭 I’m currently working on ** REST API**
 
-- 🌱 I’m currently learning **Backend development using Java and other tools other tools**
+- 🌱 I’m currently learning **Backend development using Java and other tools**
 
-- 👯 I’m looking to collaborate on **Backend Projects**
+- 👯 I’m looking to collaborate on **Inventory Management Systems**
 
 - 📫 How to reach me **odilitriumphifeatu@gmail.com**
 
