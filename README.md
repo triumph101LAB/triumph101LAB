@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm odili triumph</h1>
 <h3 align="center"> Backend Development</h3>
 
-- 🔭 I’m currently working on ** REST API**
+- 🔭 I’m currently working on **REST API**
 
 - 🌱 I’m currently learning **Backend development using Java and other tools**
 
