@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend development using NestJs, javaScript and other tools**
 
-- 👯 I’m looking to collaborate on **Management Systems**
+- 👯 I’m looking to collaborate on **Fullstack Project**
 
 - 📫 How to reach me **odilitriumphifeatu@gmail.com**
 
