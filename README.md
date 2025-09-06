@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm odili triumph</h1>
-<h3 align="center"> Backend Engineer</h3>
+<h3 align="center"> Software Engineer</h3>
 
 - 🔭 I’m currently working on **REST API**
 
