@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend development using NestJs, javaScript, Python, Java, FastApi and other tool .**
 
--    I'm Very adaptable and quick to learn new technologies, skills frameworks and the likes
+-    I'm Very adaptable and quick to learn new technologies, skills, frameworks and the likes
 
 - 👯 I’m looking to collaborate on **Fullstack Project**
 
