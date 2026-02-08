@@ -3,9 +3,11 @@
 <h1 align="center">Hi 👋, I'm odili triumph</h1>
 <h3 align="center"> Software Engineer</h3>
 
-- 🔭 I’m currently working on **REST API**
+- 🔭 I’m currently working on **Software Projects**
 
-- 🌱 I’m currently learning **Backend development using NestJs, javaScript and other tools**
+- 🌱 I’m currently learning **Backend development using NestJs, javaScript, Python, Java, FastApi and other tool .**
+
+-    I'm Very adaptable and quick to learn new technologies, skills frameworks and the likes
 
 - 👯 I’m looking to collaborate on **Fullstack Project**
 
