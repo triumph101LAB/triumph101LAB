@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Software Projects**
 
-- 🌱 I’m currently learning **Backend development using NestJs, javaScript, Python, Java, FastApi and other tool .**
+- 🌱 I’m currently Working on **Backend Project using NestJs, javaScript, Python, Java, FastApi and other tool .**
 
 -    I'm Very adaptable and quick to learn new technologies, skills, frameworks and the likes
 
